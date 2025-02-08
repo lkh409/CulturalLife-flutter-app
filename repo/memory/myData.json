@@ -1,0 +1,42 @@
+[
+  {
+    "title" : "지킬앤하이드 4차 관람",
+    "date" : "2023/04/28",
+    "place" : "서울",
+    "who" : "혼자",
+    "genre" : "musical",
+    "rate" : "4.5",
+    "content" : "재밌었다",
+    "imagePath" : "repo/images/지킬앤하이드.jpg"
+  },
+  {
+    "title": "극장판 짱구는 못말려:\n 동물소환 닌자 배꼽수비대",
+    "date": "2023/05/05",
+    "place": "아산 CGV",
+    "who": "친구",
+    "genre": "movie",
+    "rate": "4.0",
+    "content":"조금 지루했다.",
+    "imagePath": "repo/images/영화.jpg"
+  },
+  {
+    "title": "연등축제!",
+    "date": "2023/05/07",
+    "place": "서울",
+    "who": "엄마, 아빠",
+    "genre": "festival",
+    "rate": "4.5",
+    "content":"어버이날~ 엄마 아빠랑~~",
+    "imagePath": "repo/images/noPhotos.png"
+  },
+  {
+    "title": "오페라의 유령 3차 관람",
+    "date": "2023/04/30",
+    "place": "서울",
+    "who": "친구",
+    "genre": "musical",
+    "rate": "4.5",
+    "content":"재밌었다. 다음에 또 봐야지!",
+    "imagePath": "repo/images/오페라의유령.jpg"
+  }
+]
