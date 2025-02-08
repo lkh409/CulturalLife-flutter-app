@@ -19,8 +19,8 @@
 <br>
 
 ## :sparkles: 특징
-- 내용 기록 화면에서 영화, 뮤지컬, 축제, 기타 장르를 선택하면 타임라인에 해당 장르에 맞는 이모티콘으로 표시됨
-- 기록을 저장하면 타임라인 화면에 순서대로 나타나고, 기록을 누르면 본인이 작성한 기록이 팝업 화면으로 나타남
+- 내용 기록 화면에서 영화, 뮤지컬, 축제, 기타 장르를 선택하면 타임라인에 해당 장르에 맞는 이모티콘으로 표시된다.
+- 기록을 저장하면 타임라인 화면에 순서대로 나타나고, 기록을 누르면 본인이 작성한 기록이 팝업 화면으로 나타난다.
 
 <br>
 <br>
@@ -54,12 +54,12 @@
 <br>- 오른쪽 하단의 플로팅 액션 버튼으로 새로작성/검색 선택이 가능하다.
 <br>- 기록을 클릭하면 상세정보 팝업이 나온다.
 <br>
-|
 
-![Image](https://github.com/user-attachments/assets/0adddc1b-2bd2-4e2c-ae2d-a2106fdc44ba)
+<figure class="half">
+  <a href="link"><img src="https://github.com/user-attachments/assets/0adddc1b-2bd2-4e2c-ae2d-a2106fdc44ba" width="180" height="360"/></a>
+  <a href="link"><img src="https://github.com/user-attachments/assets/86cbf211-fe92-475e-885c-4cee364d803c" width="180" height="360"/></a>
+</figure>
 
-![Image](https://github.com/user-attachments/assets/86cbf211-fe92-475e-885c-4cee364d803c)
-|:--:|
 
 
 
@@ -73,16 +73,12 @@
 <br>- 영화, 축제, 뮤지컬로 분류
 <br>- 검색 시 제목, (개봉/시작)날짜, 장소 or 평점을 보여준다.
 <br>
-  
-|
-- 검색하기 전 기본 화면
-![Image](https://github.com/user-attachments/assets/103e6e79-cfd6-42c2-b80d-e51a8742730b)
 
-- 검색 화면
-![Image](https://github.com/user-attachments/assets/37f44511-c0cf-4e78-9c90-e77249e59605)
+<figure class="half">
+  <a href="link"><img src="https://github.com/user-attachments/assets/103e6e79-cfd6-42c2-b80d-e51a8742730b" width="180" height="360"/></a>
+  <a href="link"><img src="https://github.com/user-attachments/assets/37f44511-c0cf-4e78-9c90-e77249e59605" width="180" height="360"/></a>
+</figure>
 
-
-|:--:|
 </details>
 <br>
 
@@ -94,10 +90,9 @@
 <br>- 장르 선택이 가능하고, 평점을 매길 수 있다.
 <br>- 해당 화면에서 선택한 장르는 메인화면의 표시 이모지로 이어진다.
 <br>
-  
-|
-![Image](https://github.com/user-attachments/assets/5efbd8fa-cdaa-416f-a0e9-1f545767e09f)
-|:--:|
+
+ <a href="link"><img src="https://github.com/user-attachments/assets/5efbd8fa-cdaa-416f-a0e9-1f545767e09f" width="180" height="360"/></a>
+
 </details>
 <br>
 
